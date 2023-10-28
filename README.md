@@ -6,6 +6,12 @@
 
 - [`lecture_syllabus_url.csv`](./lecture_syllabus_url.csv)
 
+## 学習単元の一覧
+
+シラバスデータを分析した結果得られた，プログラミング学習単元の一覧です．
+
+- [`programming_learning_units.md`](./programming_learning_units.md)
+
 ## 学習単元の対応状況
 
 単元のカテゴリでファイルを分けています．また，`学科名` と `講義名` を除く各列のラベルは単元の名称と対応しており，値が `0` の場合は「対応なし」，`1` の場合は「対応あり」を表します．
