@@ -4,13 +4,13 @@
 
 シラバスデータの収集対象としたプログラミング講義の一覧です．なお，`シラバスURL` にアクセスして個別のシラバス画面に遷移しない（トップページ等が表示される）場合は，別途講義名で検索のうえ閲覧していただく必要があります．
 
-- [`lecture_syllabus_url.csv`](./lecture_syllabus_url.csv)
+- [`lecture_syllabus_url.csv`](./data/lecture_syllabus_url.csv)
 
 ## 学習単元の一覧
 
 シラバスデータを分析した結果得られた，プログラミング学習単元の一覧です．
 
-- [`programming_learning_units.md`](./programming_learning_units.md)
+- [`programming_learning_units.md`](./data/programming_learning_units.md)
 
 ## 学習単元の対応状況
 
@@ -18,15 +18,15 @@
 
 ### 講義
 
-- カテゴリ1: [`lecture_matched_units_category1.csv`](./lecture_matched_units_category1.csv)
-- カテゴリ2: [`lecture_matched_units_category2.csv`](./lecture_matched_units_category2.csv)
-- カテゴリ3: [`lecture_matched_units_category3.csv`](./lecture_matched_units_category3.csv)
+- カテゴリ1: [`lecture_matched_units_category1.csv`](./data/lecture_matched_units_category1.csv)
+- カテゴリ2: [`lecture_matched_units_category2.csv`](./data/lecture_matched_units_category2.csv)
+- カテゴリ3: [`lecture_matched_units_category3.csv`](./data/lecture_matched_units_category3.csv)
 
 ### 学科
 
-- カテゴリ1: [`department_matched_units_category1.csv`](./department_matched_units_category1.csv)
-- カテゴリ2: [`department_matched_units_category2.csv`](./department_matched_units_category2.csv)
-- カテゴリ3: [`department_matched_units_category3.csv`](./department_matched_units_category3.csv)
+- カテゴリ1: [`department_matched_units_category1.csv`](./data/department_matched_units_category1.csv)
+- カテゴリ2: [`department_matched_units_category2.csv`](./data/department_matched_units_category2.csv)
+- カテゴリ3: [`department_matched_units_category3.csv`](./data/department_matched_units_category3.csv)
 
 ## 学習単元のカバー率
 
@@ -39,8 +39,8 @@
 
 ### 講義
 
-- [`lecture_cover_rate.csv`](./lecture_cover_rate.csv)
+- [`lecture_cover_rate.csv`](./data/lecture_cover_rate.csv)
 
 ### 学科
 
-- [`department_cover_rate.csv`](./department_cover_rate.csv)
+- [`department_cover_rate.csv`](./data/department_cover_rate.csv)
